@@ -12,3 +12,4 @@
 - [LinkedIn](https://www.linkedin.com/company/paradoxical-patterns/   "LinkedIn")
 - [Facebook](https://facebook.com/paradoxicalPatterns   "Facebook")
 - [Instagram](https://www.instagram.com/paradoxicalpatterns/  "Instagram")
+- [Twitter](https://twitter.com/ParadoxicalPatt "Twitter")
